@@ -8,7 +8,7 @@ I'm a 2nd year IT highschool student.
 
 *   🌍  I'm based in Stenungsund
 *   ✉️  You can contact me at [olekryba8@gmail.com](mailto:olekryba8@gmail.com)
-*   🚀  I'm currently working on [Varprojektet](http://github.com/olekryba/varprojekt)
+*   🚀  I'm currently working on [SARK2025](http://github.com/olekryba/sark2025)
 *   🧠  I'm learning CSS
 *   🤝  I'm open to collaborating on Interesting Projects
    ### Skills 
